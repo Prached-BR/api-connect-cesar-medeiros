@@ -390,6 +390,6 @@ Atualize o campo `repository` do `package.json` com a URL do seu repositório e 
 
 ---
 
-**Autor:** Equipe Back-end Júnior da startup  
+**Autor:** Prached_Br e Equipe Back-end Júnior da startup  
 **Versão atual:** `1.0.0`  
 **Licença:** MIT
